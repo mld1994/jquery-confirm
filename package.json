@@ -1,6 +1,6 @@
 {
   "name": "jquery-confirm-ik",
-  "version": "3.3.5",
+  "version": "3.3.6",
   "title": "jquery-confirm.js | A multipurpose alert and confirm plugin",
   "description": "A jQuery plugin that provides great set of features like, Auto-close, Ajax-loading, background-dismiss, themes and more.",
   "homepage": "https://github.com/mld1994/jquery-confirm",
@@ -34,4 +34,3 @@
   ],
   "license": "MIT"
 }
-
