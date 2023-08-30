@@ -1,26 +1,26 @@
 {
-  "name": "jquery-confirm",
-  "version": "3.3.4",
+  "name": "jquery-confirm-ik",
+  "version": "3.3.5",
   "title": "jquery-confirm.js | A multipurpose alert and confirm plugin",
   "description": "A jQuery plugin that provides great set of features like, Auto-close, Ajax-loading, background-dismiss, themes and more.",
-  "homepage": "http://craftpip.github.io/jquery-confirm/",
-  "author": "Boniface Periera (http://github.com/craftpip/)",
+  "homepage": "https://github.com/mld1994/jquery-confirm",
+  "author": "Boniface Periera (https://github.com/mld1994/)",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/craftpip/jquery-confirm/blob/master/LICENSE"
+      "url": ""
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/craftpip/jquery-confirm.git"
+    "url": "https://github.com/mld1994/jquery-confirm.git"
   },
   "main": "dist/jquery-confirm.min.js",
   "dependencies": {
     "jquery": ">=1.6"
   },
   "bugs": {
-    "url": "https://github.com/craftpip/jquery-confirm/issues"
+    "url": ""
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
